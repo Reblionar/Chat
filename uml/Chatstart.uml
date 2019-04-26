@@ -1,0 +1,42 @@
+﻿[Files]
+File0=H:\Java\Chat\ClientGUI.java
+File1=H:\Java\Chat\ServerGUI.java
+
+[Box:  - ClientGUI]
+X=481
+Y=119
+ShowParameter=4
+ShowIcons=2
+FontSize=11
+FontName=Segoe UI
+
+[Box:  - ServerGUI]
+X=82
+Y=117
+ShowParameter=4
+ShowIcons=2
+FontSize=11
+FontName=Segoe UI
+
+[Diagram]
+comments=0
+OffsetX=0
+OffsetY=0
+Visibility=0
+ShowParameter=4
+SortOrder=0
+ShowIcons=0
+ShowConnections=0
+Fontname=Segoe UI
+Fontsize=11
+ShowObjectDiagram=0
+
+[Interactive]
+I0=
+
+[Window]
+Left=150
+Top=150
+Width=1642
+Height=617
+
